@@ -1,5 +1,5 @@
 更新时间,#genre#
-2024-12-11 06:11:26,url
+2024-12-11 18:16:08,url
 📺央视频道,#genre#
 CCTV-1,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000021973/1.m3u8$订阅源-IPv6
 CCTV-1,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN111128BESTVSMGSMG/index.m3u8?m3u8_level=2$订阅源-IPv6
@@ -785,6 +785,7 @@ CGTN-Documentary,http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=
 东方卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/6081477947334326291/1.m3u8$订阅源-IPv6
 东南卫视,http://112.102.217.173:9003//hls/47/index.m3u8$订阅源
 东南卫视,http://218.13.170.98:9901/tsfile/live/1015_1.m3u8$订阅源
+东南卫视,https://kavencat01.kodview.com/live/fjtv.php?ch=dlws$订阅源
 东南卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000009263/1.m3u8$订阅源-IPv6
 东南卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000010584/1.m3u8$订阅源-IPv6
 东南卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010096/1.m3u8$订阅源-IPv6
@@ -813,6 +814,7 @@ CGTN-Documentary,http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=
 贵州卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000489/index.m3u8?IAS$订阅源-IPv6
 海南卫视,http://218.13.170.98:9901/tsfile/live/1020_1.m3u8$订阅源
 海南卫视,http://112.102.217.173:9003//hls/53/index.m3u8$订阅源
+海南卫视,https://kavencat01.kodview.com/live/hnntv.php?ch=hnws$订阅源
 海南卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000006211/1.m3u8$订阅源-IPv6
 海南卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/7899627377857656087/1.m3u8$订阅源-IPv6
 海南卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010083/1.m3u8$订阅源-IPv6
@@ -913,6 +915,7 @@ CGTN-Documentary,http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=
 深圳卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000007410/1.m3u8$订阅源-IPv6
 深圳卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/5352218613763113657/1.m3u8$订阅源-IPv6
 深圳卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010068/1.m3u8$订阅源-IPv6
+三沙卫视,https://kavencat01.kodview.com/live/hnntv.php?ch=ssws$订阅源
 三沙卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000117/1.m3u8$订阅源-IPv6
 三沙卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000208/index.m3u8?IAS$订阅源-IPv6
 三沙卫视,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000078/index.m3u8?ACE$订阅源-IPv6
@@ -954,6 +957,7 @@ CGTN-Documentary,http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=
 农林卫视,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000072/index.m3u8?ACE$订阅源-IPv6
 农林卫视,http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000060$订阅源-IPv6
 农林卫视,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000072/index.m3u8?IASHttpSessionId=$订阅源-IPv6
+海峡卫视,https://kavencat01.kodview.com/live/fjtv.php?ch=hxws$订阅源
 山东教育卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000004097/1.m3u8$订阅源-IPv6
 山东教育卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010112/1.m3u8$订阅源-IPv6
 山东教育卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000223/index.m3u8?IAS$订阅源-IPv6
@@ -1016,6 +1020,7 @@ CGTN-Documentary,http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=
 北京卫视「IPV6」,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8$订阅源-IPv6
 东南卫视「IPV6」,http://112.102.217.173:9003//hls/47/index.m3u8$订阅源
 东南卫视「IPV6」,http://218.13.170.98:9901/tsfile/live/1015_1.m3u8$订阅源
+东南卫视「IPV6」,https://kavencat01.kodview.com/live/fjtv.php?ch=dlws$订阅源
 东南卫视「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8$订阅源-IPv6
 东南卫视「IPV6」,http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000519$订阅源-IPv6
 东南卫视「IPV6」,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226377/index.m3u8$订阅源-IPv6
@@ -1065,6 +1070,7 @@ CGTN-Documentary,http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=
 河南卫视「IPV6」,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010071/1.m3u8$订阅源-IPv6
 海南卫视「IPV6」,http://218.13.170.98:9901/tsfile/live/1020_1.m3u8$订阅源
 海南卫视「IPV6」,http://112.102.217.173:9003//hls/53/index.m3u8$订阅源
+海南卫视「IPV6」,https://kavencat01.kodview.com/live/hnntv.php?ch=hnws$订阅源
 海南卫视「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8$订阅源-IPv6
 海南卫视「IPV6」,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226465/index.m3u8$订阅源-IPv6
 海南卫视「IPV6」,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000262/index.m3u8?IAS$订阅源-IPv6
@@ -1151,8 +1157,6 @@ CGTN-Documentary,http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=
 广州新闻,http://tencentplaygzrb01.gztv.com/live/xinwen.m3u8$订阅源
 广州新闻,https://tencentplaywebsite.gztv.com/live/xinwen.m3u8?txSecret=c53d0e4d014632321a8e0efd6abecda4&txTime=193108637cb$订阅源
 广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen$订阅源
-广州法制,http://cqshushu.us.kg:2086/gztv.php?id=gzfz$订阅源
-4K南国都市频道,http://cqshushu.us.kg:2086/gztv.php?id=ngds$订阅源
 
 ☘️浙江频道,#genre#
 浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8$订阅源
@@ -1167,13 +1171,6 @@ CGTN-Documentary,http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=
 
 ☘️北京频道,#genre#
 北京卡酷少儿,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN164297BESTVSMGSMG9/index.m3u8?m3u8_level=2$订阅源-IPv6
-BRTV文艺,http://cqshushu.us.kg:2086/bjtv.php?id=bjwy$订阅源
-BRTV纪实科教,http://cqshushu.us.kg:2086/bjtv.php?id=bjjs$订阅源
-BRTV影视,http://cqshushu.us.kg:2086/bjtv.php?id=bjys$订阅源
-BRTV财经,http://cqshushu.us.kg:2086/bjtv.php?id=bjcj$订阅源
-BRTV体育休闲,http://cqshushu.us.kg:2086/bjtv.php?id=bjty$订阅源
-BRTV生活,http://cqshushu.us.kg:2086/bjtv.php?id=bjsh$订阅源
-BRTV新闻,http://cqshushu.us.kg:2086/bjtv.php?id=bjxw$订阅源
 北京纪实科教,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000001910/1.m3u8$订阅源-IPv6
 北京纪实科教,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000028380/1.m3u8$订阅源-IPv6
 北京纪实科教,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031204/1.m3u8$订阅源-IPv6
@@ -1210,7 +1207,6 @@ BRTV新闻,http://cqshushu.us.kg:2086/bjtv.php?id=bjxw$订阅源
 都市剧场,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002022/index.m3u8?IASHttpSessionId=$订阅源-IPv6
 
 ☘️重庆频道,#genre#
-CQTV新闻频道,http://cqshushu.us.kg:2086/cqtv.php$订阅源
 QTV-1,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000500/index.m3u8?ACE$订阅源-IPv6
 QTV-2,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000501/index.m3u8?ACE$订阅源-IPv6
 QTV-3,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000502/index.m3u8?ACE$订阅源-IPv6
@@ -1244,6 +1240,10 @@ QTV-6,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.liv
 湖北垄上,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072463c333/index.m3u8?m3u8_level=2$订阅源-IPv6
 
 ☘️广西频道,#genre#
+南宁公共,https://kavencat01.kodview.com/live/nntv.php?ch=103$订阅源
+南宁新闻综合,https://kavencat01.kodview.com/live/nntv.php?ch=101$订阅源
+南宁影视娱乐,https://kavencat01.kodview.com/live/nntv.php?ch=104$订阅源
+南宁文旅生活,https://kavencat01.kodview.com/live/nntv.php?ch=105$订阅源
 
 ☘️天津频道,#genre#
 天津卫视,http://218.13.170.98:9901/tsfile/live/1008_1.m3u8$订阅源
@@ -1257,6 +1257,30 @@ QTV-6,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.liv
 ☘️四川频道,#genre#
 康巴卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000266002/1.m3u8$订阅源-IPv6
 康巴卫视,http://[2409:8087:74d9:21::6]:80/270000001128/9900000066/index.m3u8$订阅源-IPv6
+金堂电视台,https://kavencat01.kodview.com/live/cdqx.php?ch=jintang$订阅源
+蓉城先锋,https://kavencat01.kodview.com/live/cdtv.php?ch=dangjiao$订阅源
+成都新闻综合,https://kavencat01.kodview.com/live/cdtv.php?ch=cdtv1$订阅源
+成都经济资讯,https://kavencat01.kodview.com/live/cdtv.php?ch=cdtv2$订阅源
+成都都市生活,https://kavencat01.kodview.com/live/cdtv.php?ch=cdtv3$订阅源
+成都影视文艺,https://kavencat01.kodview.com/live/cdtv.php?ch=cdtv4$订阅源
+成都公共,https://kavencat01.kodview.com/live/cdtv.php?ch=cdtv5$订阅源
+成都少儿,https://kavencat01.kodview.com/live/cdtv.php?ch=cdtv6$订阅源
+简阳综合,https://kavencat01.kodview.com/live/cdqx.php?ch=jianyang$订阅源
+大邑综合,https://kavencat01.kodview.com/live/cdqx.php?ch=dayi$订阅源
+蒲江电视台,https://kavencat01.kodview.com/live/cdqx.php?ch=pujiang$订阅源
+彭州综合,https://kavencat01.kodview.com/live/cdqx.php?ch=pengzhou$订阅源
+青白江综合,https://kavencat01.kodview.com/live/cdqx.php?ch=qingbaijiang$订阅源
+邛崃电视台,https://kavencat01.kodview.com/live/cdqx.php?ch=qionglai$订阅源
+郫都综合,https://kavencat01.kodview.com/live/cdqx.php?ch=pidu$订阅源
+双流电视台,https://kavencat01.kodview.com/live/cdqx.php?ch=shuangliu$订阅源
+温江电视台,https://kavencat01.kodview.com/live/cdqx.php?ch=wenjiang$订阅源
+武侯综合,https://kavencat01.kodview.com/live/cdqx.php?ch=wuhou$订阅源
+金牛综合,https://kavencat01.kodview.com/live/cdqx.php?ch=jntv$订阅源
+青羊综合,https://kavencat01.kodview.com/live/cdqx.php?ch=qingyang$订阅源
+锦江综合,https://kavencat01.kodview.com/live/cdqx.php?ch=jinjiang$订阅源
+高新综合,https://kavencat01.kodview.com/live/cdqx.php?ch=gaoxin$订阅源
+成华有线电视,https://kavencat01.kodview.com/live/cdqx.php?ch=chenghua$订阅源
+新都区电视台,https://kavencat01.kodview.com/live/cdqx.php?ch=xindu$订阅源
 
 ☘️陕西频道,#genre#
 
@@ -1266,17 +1290,33 @@ QTV-6,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.liv
 厦门卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000193/index.m3u8?fmmv6$订阅源-IPv6
 厦门卫视,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000075/index.m3u8?ACE$订阅源-IPv6
 厦门卫视,http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000058$订阅源-IPv6
+福建文体,https://kavencat01.kodview.com/live/fjtv.php?ch=fjwt$订阅源
+福建经济,https://kavencat01.kodview.com/live/fjtv.php?ch=fjjj$订阅源
+福建综合,https://kavencat01.kodview.com/live/fjtv.php?ch=fjzh$订阅源
+福建公共,https://kavencat01.kodview.com/live/fjtv.php?ch=fjgg$订阅源
+福建旅游,https://kavencat01.kodview.com/live/fjtv.php?ch=fjly$订阅源
+福建少儿,https://kavencat01.kodview.com/live/fjtv.php?ch=fjse$订阅源
+福建公共频道,https://kavencat01.kodview.com/live/fjtv.php?ch=fjgg$订阅源
+福建综合频道,https://kavencat01.kodview.com/live/fjtv.php?ch=fjzh$订阅源
+福建文体频道,https://kavencat01.kodview.com/live/fjtv.php?ch=fjwt$订阅源
+福建经济频道,https://kavencat01.kodview.com/live/fjtv.php?ch=fjjj$订阅源
+福建少儿频道,https://kavencat01.kodview.com/live/fjtv.php?ch=fjse$订阅源
+福建旅游频道,https://kavencat01.kodview.com/live/fjtv.php?ch=fjly$订阅源
 
 ☘️海南频道,#genre#
+海南新闻,https://kavencat01.kodview.com/live/hnntv.php?ch=hnxw$订阅源
 海南新闻,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000111/1.m3u8$订阅源-IPv6
 海南新闻,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000015/index.m3u8?IAS$订阅源-IPv6
 海南自贸,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000116/1.m3u8$订阅源-IPv6
 海南自贸,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000011/index.m3u8?IAS$订阅源-IPv6
+海南文旅,https://kavencat01.kodview.com/live/hnntv.php?ch=hnwl$订阅源
 海南文旅,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000113/1.m3u8$订阅源-IPv6
 海南文旅,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000013/index.m3u8?IAS$订阅源-IPv6
+海南少儿,https://kavencat01.kodview.com/live/hnntv.php?ch=hnse$订阅源
 海南少儿,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000112/1.m3u8$订阅源-IPv6
 海南少儿,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000110/1.m3u8$订阅源-IPv6
 海南少儿,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000014/index.m3u8?IAS$订阅源-IPv6
+海南公共,https://kavencat01.kodview.com/live/hnntv.php?ch=hngg$订阅源
 海南公共,http://[2409:8087:5e00:24::1e]:6060/000000001000/460000100000000057/1.m3u8$订阅源-IPv6
 海南公共,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000012/index.m3u8?IAS$订阅源-IPv6
 
@@ -1579,8 +1619,6 @@ tvbs新闻台,http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MC3C9358473393584
 达文西台,http://litv.zapi.us.kg/?id=4gtv-4gtv018$订阅源
 猪哥亮歌厅台,http://litv.zapi.us.kg/?id=4gtv-4gtv006$订阅源
 SMArt知识台,http://litv.zapi.us.kg/?id=litv-longturn19$订阅源
-重温经典,http://120.76.248.139/live/bfgd/4200000635.m3u8$订阅源
-重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv$订阅源
 重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd$订阅源
 香港面包,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8$订阅源
 tvbs新闻,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8$订阅源
