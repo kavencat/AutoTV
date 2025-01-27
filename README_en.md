@@ -303,14 +303,6 @@ Taking the host path /etc/docker as an example:
 
 [Changelog](./CHANGELOG.md)
 
-## Appreciate
-
-<div>Development and maintenance are not easy, please buy me a coffee ~</div>
-
-| Alipay                                | Wechat                                    |
-|---------------------------------------|-------------------------------------------|
-| ![Alipay](./static/images/alipay.jpg) | ![Wechat](./static/images/appreciate.jpg) |
-
 ## Follow
 
 Wechat public account search for Govin, or scan the code to receive updates and learn more tips:
