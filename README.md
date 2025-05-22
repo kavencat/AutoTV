@@ -41,6 +41,7 @@
 - [🗓️ 更新日志](./CHANGELOG.md)
 - [❤️ 赞赏](#赞赏)
 - [👀 关注公众号](#关注)
+- [⭐️ Star统计](#Star统计)
 - [📣 免责声明](#免责声明)
 - [⚖️ 许可证](#许可证)
 
@@ -207,7 +208,7 @@ pipenv run service
 
 ### GUI 软件
 
-1. 下载[IPTV-API 更新软件](https://github.com/Guovin/iptv-api/releases)，打开软件，点击更新，即可完成更新
+1. 下载[IPTV-API 更新软件](https://github.com/Guovin/iptv-api/releases)，打开软件，点击启动，即可进行更新
 
 2. 或者在项目目录下运行以下命令，即可打开 GUI 软件：
 
@@ -314,6 +315,10 @@ docker run -d -p 8000:8000 guovern/iptv-api
 微信公众号搜索 Govin，或扫码，接收更新推送、学习更多使用技巧：
 
 ![微信公众号](./static/images/qrcode.jpg)
+
+## Star统计
+
+[![Star统计](https://api.star-history.com/svg?repos=Guovin/iptv-api&type=Date)](https://star-history.com/#Guovin/iptv-api&Date)
 
 ## 免责声明
 
