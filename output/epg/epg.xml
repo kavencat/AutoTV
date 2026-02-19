@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260218223605 +0800">
+<tv date="20260219104541 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -14035,7 +14035,7 @@
 		<display-name lang="zh">嘉佳卡通</display-name>
 	</channel>
 	<programme channel="嘉佳卡通" start="20260219000000 +0800" stop="20260219000300 +0800">
-		<title lang="zh">奶龙搞怪大作战Ⅱ(39)</title>
+		<title lang="zh">开始</title>
 	</programme>
 	<programme channel="嘉佳卡通" start="20260219000300 +0800" stop="20260219001500 +0800">
 		<title lang="zh">喜羊羊狂野新宇宙(51)</title>
@@ -16173,14 +16173,14 @@
 	<channel id="重温经典">
 		<display-name lang="zh">重温经典</display-name>
 	</channel>
-	<programme channel="重温经典" start="20260219000000 +0800" stop="20260219031900 +0800">
-		<title lang="zh">结束</title>
+	<programme channel="重温经典" start="20260219000000 +0800" stop="20260219032000 +0800">
+		<title lang="zh">开始</title>
 	</programme>
-	<programme channel="重温经典" start="20260219031900 +0800" stop="20260219040000 +0800">
-		<title lang="zh">结束</title>
+	<programme channel="重温经典" start="20260219032000 +0800" stop="20260219040000 +0800">
+		<title lang="zh">开始</title>
 	</programme>
 	<programme channel="重温经典" start="20260219040000 +0800" stop="20260219060000 +0800">
-		<title lang="zh">结束</title>
+		<title lang="zh">开始</title>
 	</programme>
 	<programme channel="重温经典" start="20260219060000 +0800" stop="20260219061100 +0800">
 		<title lang="zh">三十六个字</title>
