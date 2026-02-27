@@ -1,9 +1,7 @@
 🕘️更新时间,#genre#
-2026-02-27 18:40:38,http://74.91.26.218:82/live/cctv4hd.m3u8
+2026-02-28 06:27:09,http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
 
 📺央视频道,#genre#
-CCTV-4,http://74.91.26.218:82/live/cctv4hd.m3u8
-CCTV-11,http://69.30.246.194/live/cctv11.m3u8
 
 💰央视付费频道,#genre#
 电视指南,http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
@@ -35,6 +33,9 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 
 🎬电影频道,#genre#
 无线星河,https://cdn6.101.qzz.io/163189/tvbxh
+
+🪁动画频道,#genre#
+金鹰卡通,http://125.43.240.161:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
 
 🎵音乐频道,#genre#
 音乐现场,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
