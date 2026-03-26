@@ -1,9 +1,15 @@
 🕘️更新时间,#genre#
-2026-03-26 06:38:54,http://107.150.60.122/live/cctv5p.m3u8
+2026-03-26 18:55:39,http://107.150.60.122/live/cctv5p.m3u8
 
 📺央视频道,#genre#
 CCTV-5+,http://107.150.60.122/live/cctv5p.m3u8
+CCTV-5+,http://121.19.134.146:808/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
+CCTV-16,http://121.19.134.146:808/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-17,http://121.19.134.146:808/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+CETV1,http://101.18.30.205:808/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
+CETV2,http://101.18.30.205:808/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
+CETV4,http://101.18.30.205:808/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
 
 💰央视付费频道,#genre#
 电视指南,http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
@@ -17,14 +23,33 @@ CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 甘肃卫视,http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub
 广西卫视,http://107.150.60.122/live/gxwshd.m3u8
+广西卫视,http://121.19.134.146:808/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 海南卫视,http://satellitepull.cnr.cn/live/wxhainlyws/playlist.m3u8
+海南卫视,http://101.18.30.205:808/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视,http://121.19.134.146:808/tsfile/live/0019_2.m3u8?key=txiptv&playlive=1&authid=0
 内蒙古卫视,http://satellitepull.cnr.cn/live/wx32nmgws/playlist.m3u8
+内蒙古卫视,http://101.18.30.205:808/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
+内蒙古卫视,http://121.19.134.146:808/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
+宁夏卫视,http://101.18.30.205:808/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
+宁夏卫视,http://121.19.134.146:808/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
 青海卫视,http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub
 青海卫视,http://satellitepull.cnr.cn/live/wx32qhws/playlist.m3u8
+青海卫视,http://101.18.30.205:808/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+青海卫视,http://121.19.134.146:808/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 山西卫视,http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub
+山西卫视,http://121.19.134.146:808/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 陕西卫视,http://107.150.60.122/live/snwshd.m3u8
+陕西卫视,http://101.18.30.205:808/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+陕西卫视,http://121.19.134.146:808/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+三沙卫视,http://101.18.30.205:808/tsfile/live/0150_1.m3u8?key=txiptv&playlive=1&authid=0
+三沙卫视,http://121.19.134.146:808/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+西藏卫视,http://101.18.30.205:808/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
+西藏卫视,http://121.19.134.146:808/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
 新疆卫视,http://38.75.136.137:98/gslb/dsdqpub/xjws.m3u8?auth=testpub
+新疆卫视,http://101.18.30.205:808/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
+云南卫视,http://101.18.30.205:808/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
+兵团卫视,http://121.19.134.146:808/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
 
 ☘️四川频道,#genre#
 叙永综合,https://m3u8channel-bx.yunxya.com/nmip-media/channellive/channel104666/playlist.m3u8
@@ -37,6 +62,12 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 
 🎬电影频道,#genre#
+
+🪁动画频道,#genre#
+金鹰卡通,http://121.19.134.146:808/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://101.66.198.40:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
+金鹰卡通,http://101.66.198.12:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
+河北少儿科教,http://121.19.134.146:808/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 
 🎵音乐频道,#genre#
 音乐现场,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
