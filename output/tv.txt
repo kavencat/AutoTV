@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-10 20:58:35,http://69.30.245.50/live/cctv1.m3u8
+2026-06-11 07:26:48,http://69.30.245.50/live/cctv1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://69.30.245.50/live/cctv1.m3u8
@@ -9,7 +9,6 @@ CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 
 📡卫视频道,#genre#
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
-重庆卫视,http://101.66.195.125:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
 东方卫视,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 海南卫视,http://satellitepull.cnr.cn/live/wxhainlyws/playlist.m3u8
