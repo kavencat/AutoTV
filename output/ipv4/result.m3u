@@ -1,22 +1,14 @@
 #EXTM3U x-tvg-url="https://ghcy.eu.org/https://raw.githubusercontent.com/kavencat/AutoTV/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghcy.eu.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-07-19 06:52:43
-http://125.42.148.232:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://ghcy.eu.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="📺央视频道",CCTV-8
-http://125.42.148.232:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghcy.eu.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-07-19 19:10:03
+https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://ghcy.eu.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="📺央视频道",CCTV-10
 https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://ghcy.eu.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="📡卫视频道",湖南卫视
 http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://ghcy.eu.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/东南卫视.png" group-title="📡卫视频道",东南卫视
 http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
-#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://ghcy.eu.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/东南卫视.png" group-title="📡卫视频道",东南卫视
-http://101.66.194.150:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://ghcy.eu.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/广西卫视.png" group-title="📡卫视频道",广西卫视
-http://101.66.194.150:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://ghcy.eu.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/海南卫视.png" group-title="📡卫视频道",海南卫视
 http://satellitepull.cnr.cn/live/wxhainlyws/playlist.m3u8
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://ghcy.eu.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="📡卫视频道",河南卫视
-http://101.66.194.150:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://ghcy.eu.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/内蒙古卫视.png" group-title="📡卫视频道",内蒙古卫视
 http://satellitepull.cnr.cn/live/wx32nmgws/playlist.m3u8
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://ghcy.eu.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/青海卫视.png" group-title="📡卫视频道",青海卫视
@@ -29,10 +21,6 @@ https://m3u8channel-bx.yunxya.com/nmip-media/channellive/channel104666/playlist.
 https://m3u8channel-ms.yunxya.com:443/nmip-media/audiolive/audio100580/playlist.m3u8
 #EXTINF:-1 tvg-name="荥经综合" tvg-logo="https://ghcy.eu.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/荥经综合.png" group-title="☘️四川频道",荥经综合
 https://m3u8channel-yj.yunxya.com/nmip-media/channellive/channel101140/playlist.m3u8
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://ghcy.eu.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png" group-title="🪁动画频道",金鹰卡通
-http://101.66.194.177:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://ghcy.eu.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png" group-title="🪁动画频道",金鹰卡通
-http://125.42.148.232:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="音乐现场" tvg-logo="https://ghcy.eu.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/音乐现场.png" group-title="🎵音乐频道",音乐现场
 https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 #EXTINF:-1 tvg-name="音乐之声" tvg-logo="https://ghcy.eu.org/https://raw.githubusercontent.com/fanmingming/live/main/tv/音乐之声.png" group-title="🎵音乐频道",音乐之声
